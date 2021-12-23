@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Choppa77
 - 👀 I’m interested in wordwilde netwoork information
 - 🌱 I’m currently learning Coding, IA and devrlopping
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on developping and coding 
 - 📫 How to reach me ...
 
 <!---
